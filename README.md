@@ -1,6 +1,6 @@
 ### Hi there, I'm Tobias 👋
 
-[![Website](https://img.shields.io/website?label=wadsethtobias.github.io&style=for-the-badge&url=https%3A%2F%2Fwadsethtobias.github.io)](https://wadsethtobias.github.io)
+[![Website](https://img.shields.io/website?label=tobiaswadseth.github.io&style=for-the-badge&url=https%3A%2F%2Ftobiaswadseth.github.io)](https://tobiaswadseth.github.io)
 
 ## I'm a Student, Developer, and Teacher!
 
@@ -31,8 +31,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Tobis Wadseth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wadsethtobias&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tobis Wadseth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tobiaswadseth&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://wadsethtobias.github.io
+[website]: https://tobiaswadseth.github.io
