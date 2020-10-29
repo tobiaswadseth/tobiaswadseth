@@ -1,10 +1,10 @@
 ### Hi there, I'm Tobias 👋
 
-[![Website](https://img.shields.io/website?label=tobiaswadseth.github.io&style=for-the-badge&url=https%3A%2F%2Ftobiaswadseth.github.io)](https://tobiaswadseth.github.io)
+[![Website](https://img.shields.io/website?label=tobiaswadseth.com&style=for-the-badge&url=https%3A%2F%2F/tobiaswadseth.com)](http://tobiaswadseth.com)
 
 ## I'm a Student, Developer, and Teacher!
 
-- 🔭 I’m currently working on developing a fully custom Minecraft Server with its own games within the game!
+- 🧑🏼‍🎓 I’m currently studying Java at IT-Högskolan!
 - 🌱 I’m currently learning everything!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design fashion
@@ -35,4 +35,4 @@
 
 </details>
 
-[website]: https://tobiaswadseth.github.io
+[website]: http://tobiaswadseth.com
