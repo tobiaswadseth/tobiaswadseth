@@ -1,6 +1,6 @@
 ### Hi there, I'm Tobias 👋
 
-[![Website](https://img.shields.io/website?label=tobiaswadseth.com&style=for-the-badge&url=https%3A%2F%2F/tobiaswadseth.com)](http://tobiaswadseth.com)
+[![Website](https://img.shields.io/website?label=tobiaswadseth.com&style=for-the-badge&url=http%3A%2F%2Ftobiaswadseth.com)](http://tobiaswadseth.com)
 
 ## I'm a Student, Developer, and Teacher!
 
