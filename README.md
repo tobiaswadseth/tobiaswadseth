@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on a Bug Tracker
 
-- 🌱 I’m currently learning MSSQL
+- 🌱 I’m currently learning MSSQL & Docker
 
 - 🥅 2021 Goals: Contribute more to open source projects
 
