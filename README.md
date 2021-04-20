@@ -13,7 +13,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on a Voxel Engine
+- 🔭 I’m currently working on a landing an internship
 
 - 🌱 I’m currently learning Spring Boot
 
