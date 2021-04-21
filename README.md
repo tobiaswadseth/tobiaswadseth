@@ -84,13 +84,6 @@
 
 <br>
 
-<div align="center" style="font-size: 20px; font-weight: 700;">Github Stats</div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tobiaswadseth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br>
-<br>
-<br>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tobiaswadseth&&style=flat-square" align="center" />
 </div>
