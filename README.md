@@ -88,7 +88,4 @@
 <img src="https://komarev.com/ghpvc/?username=tobiaswadseth&&style=flat-square" align="center" />
 </div>
 
-<br>
-<br>
-
 [website]: http://tobiaswadseth.com
