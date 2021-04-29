@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tobiaswadseth.com/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./greetings.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Tobias, a full-time java student 👨‍💻</div>
